@@ -1,0 +1,14 @@
+{
+    "folders": [
+		{
+			"name": "SMF_CABEZAL",
+			"path": "."
+		}
+	],
+    "settings": {
+        "git.ignoreLimitWarning": true,
+        "files.associations": {
+            "array": "cpp"
+        }
+    }
+}
